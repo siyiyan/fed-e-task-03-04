@@ -27,4 +27,4 @@
 https://www.ucloud.cn/site/active/lagou.html
 
 
-作业我已经先提交 fed-e-task-03-05 和 fed-e-task-03-06，fed-e-task-03-04 的作业过一两天完成。
+作业我已经先提交 fed-e-task-03-05 ，fed-e-task-03-04 的作业过一两天完成。
